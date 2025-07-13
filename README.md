@@ -128,6 +128,8 @@ This project demonstrates a successful implementation of autonomous navigation u
 ---
 
 ##  Author name
-Aman Raj
-Github : AmanRaj367
+- Aman Raj
+- Github : AmanRaj367
+
+---
 
